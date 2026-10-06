@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: PhysicsPlasticSleds
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: 7e00912d88919364d85936d9605c3dde, type: 2}
+    pos: {x: 0.107, y: 0.125, z: 0.23}
+    rot: {x: 0, y: -0.7071068, z: -0.7071068, w: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 69f1e4c78146544409b9ff52cd9a84e6, type: 2}
+    pos: {x: 0.168, y: 0.143, z: -0.308}
+    rot: {x: 0, y: -0.7071068, z: -0.7071068, w: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 451cd50ac86eaa549a4a5f7c71230150, type: 2}
+    pos: {x: -0.034, y: 0.129, z: -0.096}
+    rot: {x: 0, y: -0.7071068, z: -0.7071068, w: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 7100198b7fbfca6459a34eb2ecbc64c4, type: 2}
+    pos: {x: 0.066, y: 0.232, z: 0.038}
+    rot: {x: 0, y: -0.7071068, z: -0.7071068, w: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: c9232229922369b4ea98dcaebe4a44a3, type: 2}
+    pos: {x: -0.112, y: 0.13, z: 0.283}
+    rot: {x: 0, y: -0.7071068, z: -0.7071068, w: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 8b3cad97fd6e1d9478a78ab1e26aa6ec, type: 2}
+    pos: {x: -0.077, y: 0.146, z: -0.347}
+    rot: {x: 0, y: -0.7071068, z: -0.7071068, w: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: c0628577ca533f94ba3dc2062a0d3b67, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: PhysicsCrate
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: d089b3593bdfc744c98a4e0e2071ca72, type: 2}
+    pos: {x: 0.004999161, y: 0.55, z: -0.821}
+    rot: {x: 0, y: -0.7071068, z: 0, w: -0.7071068}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: de5867a39b097ac40be1a1f86d691509, type: 2}
+    pos: {x: 0, y: 0.25, z: -0.04}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: f3ecf691b647d034ea09870e6c5052b9, type: 2}
+    pos: {x: 0.3849983, y: 0.5400009, z: 0}
+    rot: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: d089b3593bdfc744c98a4e0e2071ca72, type: 2}
+    pos: {x: 0, y: 0.5499992, z: 0.813}
+    rot: {x: 0, y: 0.7071068, z: 0, w: -0.7071068}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: f3ecf691b647d034ea09870e6c5052b9, type: 2}
+    pos: {x: -0.3800011, y: 0.5400009, z: 0}
+    rot: {x: -0.5, y: -0.5, z: -0.5, w: 0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: f3ecf691b647d034ea09870e6c5052b9, type: 2}
+    pos: {x: 0, y: 0.956, z: 0.002}
+    rot: {x: 0.7071068, y: 0, z: 0.7071068, w: 0}
+    scale: {x: 1, y: 1, z: 1}

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: SidePines1
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: 0b924898b8a27fe479957699530631da, type: 2}
+    pos: {x: -1.180483, y: 4.61, z: 1.204918}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 0b924898b8a27fe479957699530631da, type: 2}
+    pos: {x: -2.550482, y: 4.33, z: 3.64}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 0b924898b8a27fe479957699530631da, type: 2}
+    pos: {x: -0.3604832, y: 4.61, z: 5.85}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 20290a31c04a4d244a5a3f1a38994339, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: b8147ee1904f25046ab61c68a805fde0, type: 2}
+    pos: {x: 3.5, y: -0.02, z: 2.52}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: b8147ee1904f25046ab61c68a805fde0, type: 2}
+    pos: {x: 4.34, y: 0.16, z: 7.38}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 0b924898b8a27fe479957699530631da, type: 2}
+    pos: {x: -2.27, y: 4.61, z: 8.02}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 02ca70335eb096443b5e68b3bc4183e9, type: 2}
+    pos: {x: 2.63, y: 0.055, z: 2.37}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}

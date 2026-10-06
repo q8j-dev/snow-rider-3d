@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: PhysicsEvilSleds
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: c0628577ca533f94ba3dc2062a0d3b67, type: 2}
+    pos: {x: 0, y: 0.072, z: 0}
+    rot: {x: -0.7071068, y: 0, z: 0, w: 0.7071067}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 627b65b02ac0a2343aeb211c19379d26, type: 2}
+    pos: {x: -0.08099937, y: 0.072, z: 0.03300095}
+    rot: {x: 0.7071067, y: 0, z: 0, w: 0.7071068}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: c008ec4329b1e9c42ad0efc8e9abeb05, type: 2}
+    pos: {x: -0.2059994, y: 0.11, z: 0.5779991}
+    rot: {x: 0, y: -0.7071068, z: -0.7071067, w: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 46e49b539f05a7b429682da09839f511, type: 2}
+    pos: {x: -0.2469997, y: 0.072, z: 0.009000778}
+    rot: {x: 0, y: -0.7071068, z: -0.7071067, w: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 0804dadc95568ab4581a2b06205ce29a, type: 2}
+    pos: {x: 0.09000015, y: 0.072, z: 0.01600075}
+    rot: {x: 0.7071067, y: 0, z: 0, w: 0.7071068}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: a7205c1f2ad538e4096f7877c3262e7a, type: 2}
+    pos: {x: -0.2059994, y: 0.072, z: 0.1669998}
+    rot: {x: 0, y: -0.7071068, z: -0.7071067, w: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: edd680cbd73dcc5439c1325bcacd8288, type: 2}
+    pos: {x: 0.2329998, y: 0.069, z: 0.0170002}
+    rot: {x: 0, y: -0.7071068, z: -0.7071067, w: 0}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: f253543767334bc428b7244562da2a89, type: 2}
+    pos: {x: 0.2029991, y: 0.072, z: 0.3290005}
+    rot: {x: 0, y: -0.7071068, z: -0.7071067, w: 0}
+    scale: {x: 1, y: 1, z: 1}

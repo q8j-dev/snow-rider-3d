@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: SideChops3
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: a2e51a1615180574eb83f478f763dc92, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: fcd9979a03181c6428f22251d7f628a6, type: 2}
+    pos: {x: 4.56809, y: -0.017, z: 6.54}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: fcd9979a03181c6428f22251d7f628a6, type: 2}
+    pos: {x: 2.494898, y: -0.1, z: 9.064774}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: fcd9979a03181c6428f22251d7f628a6, type: 2}
+    pos: {x: 3.89, y: -0.13, z: 0.8}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: a2e51a1615180574eb83f478f763dc92, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: fcd9979a03181c6428f22251d7f628a6, type: 2}
+    pos: {x: 4.66, y: -0.044, z: 2.12}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: fcd9979a03181c6428f22251d7f628a6, type: 2}
+    pos: {x: 2.22, y: -0.04400063, z: 2.95}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 02ca70335eb096443b5e68b3bc4183e9, type: 2}
+    pos: {x: 2.788, y: 0.214, z: 4.94}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}

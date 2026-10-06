@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: SideCreeps3
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: 73ea0b6ee8a9b754fb969b38b2bc930f, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 8ec2ac5b09b0003428b223c705004e9c, type: 2}
+    pos: {x: 2.61, y: -0.03, z: 0.87}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 8ec2ac5b09b0003428b223c705004e9c, type: 2}
+    pos: {x: 4.08, y: -0.02999973, z: 7.08}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: b1342b635c3fdcf45b810551344f23ac, type: 2}
+    pos: {x: -0.29, y: 4.67, z: 1.38}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: b1342b635c3fdcf45b810551344f23ac, type: 2}
+    pos: {x: -1.65, y: 4.67, z: 4.52}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: b1342b635c3fdcf45b810551344f23ac, type: 2}
+    pos: {x: -0.81, y: 4.44, z: 7.79}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 1a941d0997f1f9d448708d11999662ca, type: 2}
+    pos: {x: 0.332325, y: -0.2600012, z: 5.469467}
+    rot: {x: 0, y: -0.2039286, z: 0, w: 0.9789858}
+    scale: {x: 1, y: 1, z: 0.7}
+  - prefab: {fileID: 1709254077376921, guid: 35ff44b09e5f44640a009b76db14aa72, type: 2}
+    pos: {x: 0.5633392, y: -0.210001, z: 3.639999}
+    rot: {x: 0, y: 0.7771935, z: 0, w: 0.6292617}
+    scale: {x: 1, y: 0.5, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 34f88603e9e44f1459675978c0212aa4, type: 2}
+    pos: {x: 1.232, y: 1.431998, z: 3.538734}
+    rot: {x: 0, y: 0.5688157, z: 0, w: 0.8224651}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 73ea0b6ee8a9b754fb969b38b2bc930f, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: a2e51a1615180574eb83f478f763dc92, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 73ea0b6ee8a9b754fb969b38b2bc930f, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: cf2dce1881c47ed4aaea20d7f875adb9, type: 2}
+    pos: {x: 0.808342, y: 0.2039995, z: 7.118004}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 0.7, y: 0.7, z: 0.7}
+  - prefab: {fileID: 1709254077376921, guid: cf2dce1881c47ed4aaea20d7f875adb9, type: 2}
+    pos: {x: 2.16634, y: 0.1939993, z: 5.898003}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 0.7, y: 0.7, z: 0.7}
+  - prefab: {fileID: 1709254077376921, guid: 02ca70335eb096443b5e68b3bc4183e9, type: 2}
+    pos: {x: 3.155, y: 0.12, z: 5.92}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}

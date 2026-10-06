@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92e7c5953b7dba41eb5eb7a27a707d61, type: 3}
+  m_Name: Void
+  m_EditorClassIdentifier:
+  name: Void
+  minScoreToSpawn: 0
+  maxScoreToSpawn: 2147483647
+  probability: 0
+  minLenght: 1
+  maxLength: 1
+  mod: {fileID: 114724804207875695, guid: 1ce5d2d5f42bd7947b470f5a198a445d, type: 2}
+  midChunks:
+  - data: {fileID: 11400000, guid: 61b48d81ca5a5e045ab76cc0c2eb27b1, type: 2}
+  sideChunks:
+  - data: {fileID: 11400000, guid: c9d96fec3ee912b469eb6d4eb4b13aae, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92e7c5953b7dba41eb5eb7a27a707d61, type: 3}
+  m_Name: Floats
+  m_EditorClassIdentifier:
+  name: Floats
+  minScoreToSpawn: 0
+  maxScoreToSpawn: 2147483647
+  probability: 1
+  minLenght: 2
+  maxLength: 3
+  mod: {fileID: 114724804207875695, guid: 9a015d3186da98b4398969e313794a34, type: 2}
+  midChunks:
+  - data: {fileID: 11400000, guid: 493d123a01e8d844e905da3ac2a51e5d, type: 2}
+  - data: {fileID: 11400000, guid: 5da0d103339d81148b599f73fdfa19f1, type: 2}
+  sideChunks:
+  - data: {fileID: 11400000, guid: 1fd098fa70a697e469111d17af1b7c0a, type: 2}
+  - data: {fileID: 11400000, guid: 386492a6d0fb38a4c822a8c692e3bae5, type: 2}

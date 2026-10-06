@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b31f4d0f23be9455bcc9a941106296fd, type: 3}
+  m_Name: Skins
+  m_EditorClassIdentifier:
+  skins:
+  - title: OldSledsTitle
+    description:
+    model: {fileID: 1709254077376921, guid: 2b323725bfdfae14092437cc0d6f5500, type: 2}
+    physicsModel: {fileID: 11400000, guid: 631d25f83103ef44f8cc0656f6048317, type: 2}
+    price: 0
+  - title: MetalSledsTitle
+    description:
+    model: {fileID: 1709254077376921, guid: b1fb6fa5f80eefa41b1505e69eb32f7f, type: 2}
+    physicsModel: {fileID: 11400000, guid: f50aeb9bb0f38b440ae711c2d73a4b43, type: 2}
+    price: 50
+  - title: EvilSledsTitle
+    description:
+    model: {fileID: 1709254077376921, guid: 29b142fe9de2aae4ba969c05b880b614, type: 2}
+    physicsModel: {fileID: 11400000, guid: ad6e1fed0784bcc498b627bd6fea4df6, type: 2}
+    price: 75
+  - title: PlasticSledsTitle
+    description:
+    model: {fileID: 1709254077376921, guid: 4d9096064062a314d9fa043d1092cbc2, type: 2}
+    physicsModel: {fileID: 11400000, guid: e4db889774b65d941a16167105d42ddf, type: 2}
+    price: 50
+  - title: SantaSledsTitle
+    description:
+    model: {fileID: 1709254077376921, guid: daec7264de1dbe241aec4a30c37215ec, type: 2}
+    physicsModel: {fileID: 11400000, guid: d53cdaa609416a24183fdd0fcf1a5996, type: 2}
+    price: 200
+  - title: RoundSledsTitle
+    description:
+    model: {fileID: 1709254077376921, guid: c5fe929ac74347b49ab01727403b0160, type: 2}
+    physicsModel: {fileID: 11400000, guid: 4fd4ab528d1bfa446b1f17da026d3380, type: 2}
+    price: 75
+  - title: ClassySledsTitle
+    description:
+    model: {fileID: 1709254077376921, guid: c351eeb68a8d3284a8cc4db449df7769, type: 2}
+    physicsModel: {fileID: 11400000, guid: f85603ba1df6ba64dbcc8558fa0a1cf6, type: 2}
+    price: 75
+  - title: EskimoSledsTitle
+    description:
+    model: {fileID: 1709254077376921, guid: 72e6ab87ba2785a4a82e4491450cdfa2, type: 2}
+    physicsModel: {fileID: 11400000, guid: 5f7865ba269738a4ea8f4875a046d6f8, type: 2}
+    price: 50
+  - title: AncientSledsTitle
+    description:
+    model: {fileID: 1709254077376921, guid: f16e4da46ab514a429ef64fc7064e2f9, type: 2}
+    physicsModel: {fileID: 11400000, guid: 395c042fbbb3e5c458c27e3299bfdf51, type: 2}
+    price: 50
+  - title: ModernSledsTitle
+    description:
+    model: {fileID: 1709254077376921, guid: f140122e6e147d54d896a6a21e3be952, type: 2}
+    physicsModel: {fileID: 11400000, guid: 53c5c49f61752854d9af7a8102e798e1, type: 2}
+    price: 50
+  - title: HillRacingSledsTitle
+    description:
+    model: {fileID: 1709254077376921, guid: 5f956c99cf55e874ab3f488e3571bff9, type: 2}
+    physicsModel: {fileID: 11400000, guid: 96bc10421ac879d4b9ba3fe1fc7528bb, type: 2}
+    price: 100

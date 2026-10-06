@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: CrackSideStartRamp1
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: f6f49e99984e58e4baa08b654215b7ee, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 0.3069992, y: 0.3, z: 7.177001}
+    rot: {x: 0.6027848, y: -0.3696627, z: -0.3696626, w: -0.6027848}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 4.5, y: 0.3, z: 7.177001}
+    rot: {x: 0.3494983, y: -0.614696, z: -0.6146957, w: -0.3494984}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: ed4a1379d9ddabe48b4a861107d95e6a, type: 2}
+    pos: {x: 3.78, y: 1.31, z: 7.9}
+    rot: {x: 0.07667859, y: 0.5936887, z: 0.7618043, w: 0.2476053}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 02ca70335eb096443b5e68b3bc4183e9, type: 2}
+    pos: {x: 1.55, y: 0.571, z: 5.67}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}

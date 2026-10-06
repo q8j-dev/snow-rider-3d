@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: ModernPhysicsSleds
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: c0628577ca533f94ba3dc2062a0d3b67, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 2dd97894226079d4482e3f90457151ef, type: 2}
+    pos: {x: 0.03269768, y: 0.1747499, z: 0.3076515}
+    rot: {x: 8.146034E-08, y: -1.110223E-16, z: 1.110224E-16, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 2290a401e847cf641b7fefc0ddbcc5f2, type: 2}
+    pos: {x: -0.2578869, y: 0.1664119, z: 0.2577801}
+    rot: {x: 8.146034E-08, y: -1.110223E-16, z: 1.110224E-16, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 33df107f4cd19a0459c5e56e3f83602e, type: 2}
+    pos: {x: -0.09792519, y: 0.1730914, z: -0.2685318}
+    rot: {x: 8.146034E-08, y: -1.110223E-16, z: 1.110224E-16, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 573dd47ef16d0fb42b8144cb8971ce07, type: 2}
+    pos: {x: 0.136364, y: 0.1729527, z: -0.1481171}
+    rot: {x: 8.146034E-08, y: -1.110223E-16, z: 1.110224E-16, w: 1}
+    scale: {x: 1, y: 1, z: 1}

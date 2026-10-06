@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92e7c5953b7dba41eb5eb7a27a707d61, type: 3}
+  m_Name: Creeps
+  m_EditorClassIdentifier:
+  name: Creeps
+  minScoreToSpawn: 0
+  maxScoreToSpawn: 2147483647
+  probability: 1
+  minLenght: 4
+  maxLength: 6
+  mod: {fileID: 0}
+  midChunks:
+  - data: {fileID: 11400000, guid: 0088a2ecb8fabcc47910bae705cb3775, type: 2}
+  - data: {fileID: 11400000, guid: 58bc6aaf0856d03438737872ceea0c73, type: 2}
+  - data: {fileID: 11400000, guid: e68317c31695fa24f9f38b99b7039cfd, type: 2}
+  - data: {fileID: 11400000, guid: bbc155a40823d414d85313319d67de4f, type: 2}
+  sideChunks:
+  - data: {fileID: 11400000, guid: 173d61ef1edaab244ade52a61f6e3936, type: 2}
+  - data: {fileID: 11400000, guid: 3a72ac162d4599b4eb68c07443f8b848, type: 2}
+  - data: {fileID: 11400000, guid: 602e6a48266edee46a1f04e45cc48883, type: 2}
+  - data: {fileID: 11400000, guid: c826e9a21fe21fa49b0208eb5486d476, type: 2}

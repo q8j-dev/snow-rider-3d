@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: ClassyPhysicsSleds
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: c0628577ca533f94ba3dc2062a0d3b67, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 615fec429ab9d58419ecce2d47ecdf6f, type: 2}
+    pos: {x: 0.1746731, y: 0.4366059, z: -0.3433304}
+    rot: {x: 8.146034E-08, y: 4.371139E-08, z: -3.38849E-15, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 739e7d6af6f0a4846a9e6f8a22efc142, type: 2}
+    pos: {x: -0.1959038, y: 0.195096, z: 0.5691643}
+    rot: {x: 8.146034E-08, y: 4.371139E-08, z: -3.38849E-15, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 04f0dcaf5b9270445bd8bee258ee8db0, type: 2}
+    pos: {x: -0.2021542, y: 0.1465569, z: 0.008781433}
+    rot: {x: 8.146034E-08, y: 4.371139E-08, z: -3.38849E-15, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: fe23eaa959e2aa447816532953d86380, type: 2}
+    pos: {x: -0.1315975, y: 0.3081923, z: 0.01363182}
+    rot: {x: 8.146034E-08, y: 4.371139E-08, z: -3.38849E-15, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 301e02a025cdba048926ca468367c19b, type: 2}
+    pos: {x: -0.04773903, y: 0.3081923, z: 0.01363182}
+    rot: {x: 8.146034E-08, y: 4.371139E-08, z: -3.38849E-15, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 303e38a61cd41e443be990e7d02c359b, type: 2}
+    pos: {x: 0.04915237, y: 0.3081923, z: 0.01363182}
+    rot: {x: 8.146034E-08, y: 4.371139E-08, z: -3.38849E-15, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 562b94771845c6c4a8c4441915522cfa, type: 2}
+    pos: {x: 0.1614819, y: 0.2584333, z: -0.02585411}
+    rot: {x: 8.146034E-08, y: 4.371139E-08, z: -3.38849E-15, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 6307ffe9bb5b5ca44bc64b5ca13b951f, type: 2}
+    pos: {x: 0.1932526, y: 0.1613088, z: 0.2664719}
+    rot: {x: 8.146034E-08, y: 4.371139E-08, z: -3.38849E-15, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: af7e6f955d97e734d850b4d0af8f3275, type: 2}
+    pos: {x: -0.1730843, y: 0.4366202, z: -0.3433361}
+    rot: {x: 8.146034E-08, y: 4.371139E-08, z: -3.38849E-15, w: 1}
+    scale: {x: 1, y: 1, z: 1}

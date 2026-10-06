@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="AncientSleds" xml:space="preserve">
+		<value>고대 썰매</value>
+	</data>
+	<data name="AncientSledsTitle" xml:space="preserve">
+		<value>고대 썰매</value>
+	</data>
+	<data name="Best" xml:space="preserve">
+		<value>베스트</value>
+	</data>
+	<data name="Buy" xml:space="preserve">
+		<value>사다</value>
+	</data>
+	<data name="ClassySledsTitle" xml:space="preserve">
+		<value>화려한 썰매</value>
+	</data>
+	<data name="ComingSoon" xml:space="preserve">
+		<value>곧 온다</value>
+	</data>
+	<data name="ControlSelectTap" xml:space="preserve">
+		<value>누르다</value>
+	</data>
+	<data name="ControlSelectTilt" xml:space="preserve">
+		<value>기울이다</value>
+	</data>
+	<data name="ControlSelectTitle" xml:space="preserve">
+		<value>컨트롤을 선택</value>
+	</data>
+	<data name="EskimoSledsTitle" xml:space="preserve">
+		<value>에스키모 썰매</value>
+	</data>
+	<data name="EvilSledsTitle" xml:space="preserve">
+		<value>사악한 썰매</value>
+	</data>
+	<data name="FacebookConnect" xml:space="preserve">
+		<value>페이 스북 있나요? 친구와 연결하고 놀아 라!</value>
+	</data>
+	<data name="Gifts" xml:space="preserve">
+		<value>선물</value>
+	</data>
+	<data name="HillRacingSledsTitle" xml:space="preserve">
+		<value>경주 용 썰매</value>
+	</data>
+	<data name="Later" xml:space="preserve">
+		<value>후에</value>
+	</data>
+	<data name="LikeTitle" xml:space="preserve">
+		<value>게임을 즐겁게 하셨나요?</value>
+	</data>
+	<data name="MetalSledsTitle" xml:space="preserve">
+		<value>금속 썰매</value>
+	</data>
+	<data name="ModernSledsTitle" xml:space="preserve">
+		<value>현대 썰매</value>
+	</data>
+	<data name="Never" xml:space="preserve">
+		<value>못</value>
+	</data>
+	<data name="No" xml:space="preserve">
+		<value>아니</value>
+	</data>
+	<data name="Of" xml:space="preserve">
+		<value>/</value>
+	</data>
+	<data name="OldSledsTitle" xml:space="preserve">
+		<value>오래된 썰매</value>
+	</data>
+	<data name="Paused" xml:space="preserve">
+		<value>중지</value>
+	</data>
+	<data name="Place" xml:space="preserve">
+		<value>입장</value>
+	</data>
+	<data name="PlasticSledsTitle" xml:space="preserve">
+		<value>플라스틱 썰매</value>
+	</data>
+	<data name="Play" xml:space="preserve">
+		<value>놀이</value>
+	</data>
+	<data name="Plays" xml:space="preserve">
+		<value>행위</value>
+	</data>
+	<data name="RateTitle" xml:space="preserve">
+		<value>게임을 평가하여 저희를 지원해주세요!</value>
+	</data>
+	<data name="Resume" xml:space="preserve">
+		<value>다시 시작하려면 클릭하십시오</value>
+	</data>
+	<data name="RoundSledsTitle" xml:space="preserve">
+		<value>둥근 썰매</value>
+	</data>
+	<data name="SantaSledsTitle" xml:space="preserve">
+		<value>산타 썰매</value>
+	</data>
+	<data name="Score" xml:space="preserve">
+		<value>점수</value>
+	</data>
+	<data name="Selected" xml:space="preserve">
+		<value>선택된</value>
+	</data>
+	<data name="Settings" xml:space="preserve">
+		<value>설정</value>
+	</data>
+	<data name="Sound" xml:space="preserve">
+		<value>소리</value>
+	</data>
+	<data name="TapToSlide" xml:space="preserve">
+		<value>재생하려면 탭하세요</value>
+	</data>
+	<data name="TapToStart" xml:space="preserve">
+		<value>재생하려면 탭하세요</value>
+	</data>
+	<data name="TutorialJump" xml:space="preserve">
+		<value>한 번에 두 화면면을 모두 탭하면 점프 할 수 있습니다</value>
+	</data>
+	<data name="TutorialRotate" xml:space="preserve">
+		<value>화면 측면을 탭하여 회전</value>
+	</data>
+	<data name="TutorialTitle" xml:space="preserve">
+		<value>튜토리얼!</value>
+	</data>
+	<data name="TutorialWarning" xml:space="preserve">
+		<value>장애물을 뛰어 넘는 것을 잊지 마세요!</value>
+	</data>
+	<data name="WaitButton" xml:space="preserve">
+		<value>또는 짧은 영상을 보고 지금 고치세요 
+</value>
+	</data>
+	<data name="WaitTitle" xml:space="preserve">
+		<value>썰매가 부서졌어요! 고치기 위해 잠시 기다려주세요</value>
+	</data>
+	<data name="Yes" xml:space="preserve">
+		<value>예</value>
+	</data>
+</root>

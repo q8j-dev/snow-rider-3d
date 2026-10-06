@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: CrackEndSide1
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 4.735, y: 0.28, z: 2.267}
+    rot: {x: 0.4684449, y: -0.5296785, z: -0.5296785, w: -0.4684449}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 0.427, y: 0.357, z: 2.192}
+    rot: {x: 0.5608766, y: -0.4306013, z: -0.4306013, w: -0.5608766}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 2.14, y: 0.333, z: 2.26}
+    rot: {x: 0.3879478, y: -0.5911824, z: -0.5911824, w: -0.3879478}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 2.988, y: 0.313, z: 2.059}
+    rot: {x: 0.503414, y: -0.4965625, z: -0.4965626, w: -0.503414}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 1.294, y: 0.348, z: 2.368}
+    rot: {x: 0.4710326, y: -0.5273788, z: -0.5273788, w: -0.4710326}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 3.869, y: 0.28, z: 2.177}
+    rot: {x: 0.5540707, y: -0.4393242, z: -0.4393242, w: -0.5540707}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: ed4a1379d9ddabe48b4a861107d95e6a, type: 2}
+    pos: {x: 1.059998, y: 0.85, z: 1.369999}
+    rot: {x: -0.1530925, y: 0.6598383, z: 0.7322335, w: 0.07078376}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 929fc3db1daa896488f33c603a0671eb, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}

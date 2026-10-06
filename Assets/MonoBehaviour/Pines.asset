@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92e7c5953b7dba41eb5eb7a27a707d61, type: 3}
+  m_Name: Pines
+  m_EditorClassIdentifier:
+  name: Pines
+  minScoreToSpawn: 0
+  maxScoreToSpawn: 2147483647
+  probability: 1
+  minLenght: 4
+  maxLength: 6
+  mod: {fileID: 0}
+  midChunks:
+  - data: {fileID: 11400000, guid: 2148e9ae576df484b8de7d8e15c07c8d, type: 2}
+  - data: {fileID: 11400000, guid: 92e26c3c0b4668546ba36710d9dcd8b2, type: 2}
+  - data: {fileID: 11400000, guid: 73c5d1d7bf42d044ea44ec3db228c86e, type: 2}
+  - data: {fileID: 11400000, guid: 0b7493fd43984f3459d264c0bae126b0, type: 2}
+  - data: {fileID: 11400000, guid: 578dcd580e832834c964679eba85d900, type: 2}
+  - data: {fileID: 11400000, guid: 881730c3339b8f64880c4db3ece8e5b0, type: 2}
+  sideChunks:
+  - data: {fileID: 11400000, guid: a0176c03c1852a64bbcd2a41a4a2fc29, type: 2}
+  - data: {fileID: 11400000, guid: a01f7be1fbea3624da339c8c4ff3f9ad, type: 2}
+  - data: {fileID: 11400000, guid: 28993ac80d987964eb52a18a267df18d, type: 2}
+  - data: {fileID: 11400000, guid: f5466ef2a20bdd649bd4971f5e6a5660, type: 2}

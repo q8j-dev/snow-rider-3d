@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: Creeps4
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: 88ea96bf1bd6e214a9e8bfa3a2d3063e, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 8ec2ac5b09b0003428b223c705004e9c, type: 2}
+    pos: {x: 1.48, y: -0.06, z: 0.79}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 34f88603e9e44f1459675978c0212aa4, type: 2}
+    pos: {x: 3.013796, y: 0.232, z: 2.779999}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: fcd9979a03181c6428f22251d7f628a6, type: 2}
+    pos: {x: 4.35, y: -0.03, z: 6.58}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: fcd9979a03181c6428f22251d7f628a6, type: 2}
+    pos: {x: 1.72, y: 0.02354813, z: 8.18}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 02ca70335eb096443b5e68b3bc4183e9, type: 2}
+    pos: {x: 3.3, y: 0.102, z: 5.87}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}

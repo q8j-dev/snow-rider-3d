@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: CrackStartSide1
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: a1733dc1b3561714386af44b955bcf9e, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 0.937, y: 0.357, z: 6.927}
+    rot: {x: 0.5771486, y: -0.4085333, z: -0.4085333, w: -0.5771486}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 1.828, y: 0.348, z: 7.082}
+    rot: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 2.716, y: 0.336, z: 7.005}
+    rot: {x: 0.4253384, y: -0.6097433, z: -0.5361379, w: -0.3998206}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 3.619, y: 0.313, z: 6.803}
+    rot: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 4.54, y: 0.28, z: 6.91}
+    rot: {x: 0.5630146, y: -0.4278019, z: -0.4278019, w: -0.5630146}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 76b599abf4511dd41b3ea330cab6f232, type: 2}
+    pos: {x: 0.022, y: 0.36, z: 6.825}
+    rot: {x: 0.4852681, y: -0.5143102, z: -0.5143102, w: -0.4852681}
+    scale: {x: 1, y: 1, z: 1}

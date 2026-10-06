@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: SideRocks1
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: 1a941d0997f1f9d448708d11999662ca, type: 2}
+    pos: {x: 0.92, y: -1.59, z: 3.45}
+    rot: {x: -0.09430125, y: -0.9471302, z: -0.2159239, w: 0.2177809}
+    scale: {x: 1.39, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: a2e51a1615180574eb83f478f763dc92, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 34f88603e9e44f1459675978c0212aa4, type: 2}
+    pos: {x: 3.124, y: 0.125, z: 5.4}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: cf2dce1881c47ed4aaea20d7f875adb9, type: 2}
+    pos: {x: 2.882999, y: 0.553, z: 5.900002}
+    rot: {x: 0.1510186, y: -0.02102738, z: -0.1362942, w: 0.9788643}
+    scale: {x: 0.4999999, y: 3, z: 0.5}
+  - prefab: {fileID: 1709254077376921, guid: 34f88603e9e44f1459675978c0212aa4, type: 2}
+    pos: {x: 3.01, y: 0.245, z: 4.51}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 02ca70335eb096443b5e68b3bc4183e9, type: 2}
+    pos: {x: 4.054001, y: 0.1560001, z: 4.810162}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}

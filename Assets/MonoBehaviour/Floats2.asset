@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: Floats2
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: ca3250b12a5adbe49b13937dce88bad3, type: 2}
+    pos: {x: 3.92, y: 0.261, z: 2.53}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1.2, y: 1.2, z: 1.2}
+  - prefab: {fileID: 1709254077376921, guid: ca3250b12a5adbe49b13937dce88bad3, type: 2}
+    pos: {x: 2.11, y: 0.21, z: 7.03}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1.2, y: 1.2, z: 1.2}
+  - prefab: {fileID: 1709254077376921, guid: 84c54bac82d843548a6e2e7d5b38eca3, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 02ca70335eb096443b5e68b3bc4183e9, type: 2}
+    pos: {x: 1.765, y: 0.458, z: 7.06}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}

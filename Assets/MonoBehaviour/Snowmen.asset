@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92e7c5953b7dba41eb5eb7a27a707d61, type: 3}
+  m_Name: Snowmen
+  m_EditorClassIdentifier:
+  name: Snowmen fields
+  minScoreToSpawn: 0
+  maxScoreToSpawn: 2147483647
+  probability: 1
+  minLenght: 3
+  maxLength: 5
+  mod: {fileID: 0}
+  midChunks:
+  - data: {fileID: 11400000, guid: 79a41904820303f4998449ba989c7370, type: 2}
+  - data: {fileID: 11400000, guid: cb789cbd72277d94a98138defd04e3f3, type: 2}
+  - data: {fileID: 11400000, guid: 2b01a9fcd601bb64292388b44b96d1c3, type: 2}
+  - data: {fileID: 11400000, guid: 6c002d55143699946991a59a8ded394d, type: 2}
+  - data: {fileID: 11400000, guid: 0691cdf7a079232409174f56cbeb65d5, type: 2}
+  sideChunks:
+  - data: {fileID: 11400000, guid: 1a5a6815bc97a554a9225708bdf953e2, type: 2}
+  - data: {fileID: 11400000, guid: e767429279405ce4f86f576fd6ee1431, type: 2}
+  - data: {fileID: 11400000, guid: edd5e246c49eccb4dbd41bcc1aa1b6bc, type: 2}
+  - data: {fileID: 11400000, guid: efbb716861e0f5a4589babbb8dc509ad, type: 2}

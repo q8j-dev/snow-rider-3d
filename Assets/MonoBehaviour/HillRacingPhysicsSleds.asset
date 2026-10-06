@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505001fca8766fc4281972c875e49445, type: 3}
+  m_Name: HillRacingPhysicsSleds
+  m_EditorClassIdentifier:
+  obj:
+  - prefab: {fileID: 1709254077376921, guid: c0628577ca533f94ba3dc2062a0d3b67, type: 2}
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 03291bdd715a7ce458b7756db2c4c849, type: 2}
+    pos: {x: -0.05040741, y: 0.1404152, z: -0.2349052}
+    rot: {x: 8.146034E-08, y: -1.110223E-16, z: 1.110224E-16, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: cbde06d8bb00dbf4abd07d9c603176b7, type: 2}
+    pos: {x: 0.2147312, y: 0.0317297, z: 0.061409}
+    rot: {x: 8.146034E-08, y: -1.110223E-16, z: 1.110224E-16, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 99c1bdead9d1edb4f9939ea9e929930d, type: 2}
+    pos: {x: -0.2147312, y: 0.05501175, z: -0.2375069}
+    rot: {x: 8.146034E-08, y: -1.110223E-16, z: 1.110224E-16, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 715a40c5c5782a04a954e69f454715dd, type: 2}
+    pos: {x: -0.2147312, y: 0.05518055, z: 0.2755089}
+    rot: {x: 8.146034E-08, y: -1.110223E-16, z: 1.110224E-16, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: 6e93b005203c20a479a3ef350898112c, type: 2}
+    pos: {x: 0.1187935, y: 0.08789158, z: -0.1067829}
+    rot: {x: 8.146034E-08, y: -1.110223E-16, z: 1.110224E-16, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+  - prefab: {fileID: 1709254077376921, guid: de9bf68ce3caa1a4c99927318a7ec9da, type: 2}
+    pos: {x: -0.1043892, y: 0.1385498, z: 0.08695221}
+    rot: {x: 8.146034E-08, y: -1.110223E-16, z: 1.110224E-16, w: 1}
+    scale: {x: 1, y: 1, z: 1}

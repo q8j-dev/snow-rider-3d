@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92e7c5953b7dba41eb5eb7a27a707d61, type: 3}
+  m_Name: Chops
+  m_EditorClassIdentifier:
+  name: Chops
+  minScoreToSpawn: 0
+  maxScoreToSpawn: 2147483647
+  probability: 1
+  minLenght: 3
+  maxLength: 5
+  mod: {fileID: 0}
+  midChunks:
+  - data: {fileID: 11400000, guid: ffec311bf73a31d4880f99f819c68ecd, type: 2}
+  - data: {fileID: 11400000, guid: 46335c35bd382bc479138f334e4e27c4, type: 2}
+  - data: {fileID: 11400000, guid: 1091e28a313bd0a40a3725102ad4ffd1, type: 2}
+  sideChunks:
+  - data: {fileID: 11400000, guid: cc53f921606b83f4b927558d82bfb935, type: 2}
+  - data: {fileID: 11400000, guid: 2f66c718752f1b34dac6c1c139b299e5, type: 2}
+  - data: {fileID: 11400000, guid: de79b8c17486c674da5962027d390c45, type: 2}
+  - data: {fileID: 11400000, guid: 3d26e265e1e94f74f9228ed87c712837, type: 2}

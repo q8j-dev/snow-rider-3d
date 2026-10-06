@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92e7c5953b7dba41eb5eb7a27a707d61, type: 3}
+  m_Name: Mixed Trees
+  m_EditorClassIdentifier:
+  name: Mixed Trees
+  minScoreToSpawn: 0
+  maxScoreToSpawn: 2147483647
+  probability: 1
+  minLenght: 3
+  maxLength: 6
+  mod: {fileID: 0}
+  midChunks:
+  - data: {fileID: 11400000, guid: c936144d72593364c96a5fe845520af6, type: 2}
+  - data: {fileID: 11400000, guid: 805852b306a6f134196874cabc847d35, type: 2}
+  - data: {fileID: 11400000, guid: 896e786bf2e8b4f459a1747171516f12, type: 2}
+  sideChunks:
+  - data: {fileID: 11400000, guid: 0993800922ba48a42987b4ebafe536c5, type: 2}
+  - data: {fileID: 11400000, guid: 3756213428f5afc499c8ec6037bbd1c1, type: 2}
+  - data: {fileID: 11400000, guid: 3faca0fe4acb80840b46fe9faf189634, type: 2}
+  - data: {fileID: 11400000, guid: 8fe95ae375fc7594fa8b563b05e4ec62, type: 2}
